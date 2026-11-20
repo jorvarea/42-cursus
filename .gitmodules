@@ -1,0 +1,51 @@
+[submodule "piscine42"]
+	path = piscine42
+	url = https://github.com/jorvarea/piscine42.git
+[submodule "libft"]
+	path = libft
+	url = https://github.com/jorvarea/libft.git
+[submodule "printf"]
+	path = printf
+	url = https://github.com/jorvarea/printf.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = https://github.com/jorvarea/get_next_line.git
+[submodule "born2beroot"]
+	path = born2beroot
+	url = https://github.com/jorvarea/born2beroot.git
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/jorvarea/push_swap.git
+[submodule "minitalk"]
+	path = minitalk
+	url = https://github.com/jorvarea/minitalk.git
+[submodule "fdf"]
+	path = fdf
+	url = https://github.com/jorvarea/fdf.git
+[submodule "philosophers"]
+	path = philosophers
+	url = https://github.com/jorvarea/philosophers.git
+[submodule "minishell"]
+	path = minishell
+	url = https://github.com/jorvarea/minishell.git
+[submodule "net_practice"]
+	path = net_practice
+	url = https://github.com/jorvarea/net_practice.git
+[submodule "cub3d"]
+	path = cub3d
+	url = https://github.com/jandrana/cub3d.git
+[submodule "cpp/cpp_module_00"]
+	path = cpp/cpp_module_00
+	url = https://github.com/jorvarea/cpp_module_00.git
+[submodule "cpp/cpp_module_01"]
+	path = cpp/cpp_module_01
+	url = https://github.com/jorvarea/cpp_module_01.git
+[submodule "cpp/cpp_module_02"]
+	path = cpp/cpp_module_02
+	url = https://github.com/jorvarea/cpp_module_02.git
+[submodule "cpp/cpp_module_03"]
+	path = cpp/cpp_module_03
+	url = https://github.com/jorvarea/cpp_module_03.git
+[submodule "cpp/cpp_module_04"]
+	path = cpp/cpp_module_04
+	url = https://github.com/jorvarea/cpp_module_04.git
